@@ -12,6 +12,7 @@ ipykernel = "*"
 openpyxl = "*"
 nbformat = "*"
 plotly = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
