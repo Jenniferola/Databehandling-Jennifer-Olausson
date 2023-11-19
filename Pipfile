@@ -14,6 +14,9 @@ nbformat = "*"
 plotly = "*"
 scikit-learn = "*"
 dash = "*"
+plotly-express = "*"
+dash-bootstrap-templates = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 
