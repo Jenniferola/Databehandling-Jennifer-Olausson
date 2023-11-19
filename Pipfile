@@ -13,6 +13,7 @@ openpyxl = "*"
 nbformat = "*"
 plotly = "*"
 scikit-learn = "*"
+dash = "*"
 
 [dev-packages]
 
